@@ -184,7 +184,7 @@ class RegisterViewUI: UIView {
     
     lazy var cellPhoneTitleLabel: UILabel = {
         let label = UILabel(frame: .zero)
-        label.text = "Correo electrónico"
+        label.text = "Teléfono celular"
         label.textAlignment = .left
         label.textColor = .black
         label.font = UIFont.boldSystemFont(ofSize: 18)
