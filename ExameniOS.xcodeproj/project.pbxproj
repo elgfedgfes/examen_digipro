@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		569433B729D56453006BE1F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 569433B629D56453006BE1F9 /* AppDelegate.swift */; };
-		569433BB29D56453006BE1F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 569433BA29D56453006BE1F9 /* ViewController.swift */; };
 		569433C029D56454006BE1F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 569433BF29D56454006BE1F9 /* Assets.xcassets */; };
 		569433C329D56454006BE1F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 569433C129D56454006BE1F9 /* LaunchScreen.storyboard */; };
 		569433CC29D56585006BE1F9 /* RegisterMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 569433CB29D56585006BE1F9 /* RegisterMain.swift */; };
@@ -35,7 +34,6 @@
 /* Begin PBXFileReference section */
 		569433B329D56453006BE1F9 /* ExameniOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExameniOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		569433B629D56453006BE1F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		569433BA29D56453006BE1F9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		569433BF29D56454006BE1F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		569433C229D56454006BE1F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		569433C429D56454006BE1F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 			isa = PBXGroup;
 			children = (
 				569433B629D56453006BE1F9 /* AppDelegate.swift */,
-				569433BA29D56453006BE1F9 /* ViewController.swift */,
 				569433CA29D56543006BE1F9 /* Register */,
 				569433E829D64F34006BE1F9 /* UserInformation */,
 				569433DB29D60FF8006BE1F9 /* Components */,
@@ -244,7 +241,6 @@
 				569433D629D566A6006BE1F9 /* RegisterProtocols.swift in Sources */,
 				569433EA29D64F68006BE1F9 /* UserInformationMain.swift in Sources */,
 				569433D229D56675006BE1F9 /* RegisterInteractor.swift in Sources */,
-				569433BB29D56453006BE1F9 /* ViewController.swift in Sources */,
 				569433F029D64FDE006BE1F9 /* UserInformationInteractor.swift in Sources */,
 				569433EC29D64F8D006BE1F9 /* UserInformationView.swift in Sources */,
 				569433F429D65015006BE1F9 /* UserInformationProtocols.swift in Sources */,
